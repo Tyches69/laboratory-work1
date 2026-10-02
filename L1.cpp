@@ -1,5 +1,5 @@
 ﻿#include <iostream>
-int a ,b ,c;
+int a, b, c;
 using namespace std;
 int main() {
 	cin >> a;
